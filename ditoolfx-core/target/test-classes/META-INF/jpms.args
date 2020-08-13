@@ -1,0 +1,4 @@
+--patch-module
+com.iniesta.ditoolfx.core=_
+--add-reads
+com.iniesta.ditoolfx.core=ALL-UNNAMED

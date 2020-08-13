@@ -1,0 +1,5 @@
+com.iniesta.ditoolfx.core.sample.$GreeterDefinitionClass
+com.iniesta.ditoolfx.core.sample.$SampleDefinitionClass
+com.iniesta.ditoolfx.core.$LoaderFXMLFactoryDefinitionClass
+com.iniesta.ditoolfx.core.sample.$SampleAppDefinitionClass
+com.iniesta.ditoolfx.core.sample.$GreetingServiceDefinitionClass
